@@ -1,0 +1,33 @@
+{
+  "name": "Project_COMP308",
+  "version": "0.0.0",
+  "description": "COMP308_Project",
+  "main": "server.js",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "dependencies": {
+    "bcrypt": "^4.0.0",
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "jsonwebtoken": "^8.5.1",
+    "machine_learning": "^0.1.1",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.8.9",
+    "morgan": "^1.9.1"
+  },
+  "proxy": "http://localhost:3000/",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "start": "nodemon server",
+    "dev": "nodemon server"
+  }
+}
