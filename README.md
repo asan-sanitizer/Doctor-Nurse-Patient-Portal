@@ -1,11 +1,5 @@
 # COMP308-ProjectAssignment 
 
-## Group Members
-- Trent Minia 
-- Avijit Bagchi
-- Abhishek Raturi
-- Zeedan Ahmed 
-
 ## Project Specification 
 
 ### HP(High Priority) , LP(Low Priority) , MP(Medium Prirority)
