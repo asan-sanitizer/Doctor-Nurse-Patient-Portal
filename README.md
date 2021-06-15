@@ -44,7 +44,3 @@
     - message : String
     
 #### Note: ID in `User` collection refer to other collections namely Nurse and Patient 
-
-
-# Doctor-Nurse-Patient-Portal
-# Doctor-Nurse-Patient-Portal
