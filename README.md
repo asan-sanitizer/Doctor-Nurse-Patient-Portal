@@ -1,6 +1,8 @@
 # React , Express API 
 
-![image](https://user-images.githubusercontent.com/15072510/122599108-cf082f00-d03b-11eb-898d-1c19b298a9b4.png)
+ <img src="https://user-images.githubusercontent.com/15072510/122599108-cf082f00-d03b-11eb-898d-1c19b298a9b4.png" width="400" height="400">
+ <img src="https://user-images.githubusercontent.com/15072510/122599484-74230780-d03c-11eb-98c0-0bdd4162451a.png" width="400" height="400">
+
 
 ## Project Specification 
 
